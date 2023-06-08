@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @far00kaja
-- 👀 I’m interested in every languange of programming
-- 🌱 I’m currently learning Vuejs, Laravel, ReactJS and React Native
-- 💞️ I’m looking to collaborate on building web or mobile application
+- 👀 I’m interested and on exploration phase in depth about backend
+- 🌱 I’m currently learning Go, Java, NodeJS, Vuejs and ReactJS 
 - 📫 How to reach me, you can send to my email dckydrm1@gmail.com
 
 <!---
